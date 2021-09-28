@@ -6,5 +6,9 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="titulo" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="fontFamily">@font/holtwood_one_sc</item>
+    </style>
 
 </resources>
